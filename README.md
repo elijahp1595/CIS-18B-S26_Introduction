@@ -1,1 +1,8 @@
-# CIS-18B-S26_Introduction
+# Name: Elijah Pina
+
+# Instructor: John O’Connor
+
+# Section: 26SPR-CIS-18B-32592
+
+
+
